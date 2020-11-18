@@ -1,5 +1,5 @@
 # LMP 2020
-## Esercozop 02
+## Esercizio 02
 
 Questo è il secondo esercizio creato in Java per il corso di LMP.
 
