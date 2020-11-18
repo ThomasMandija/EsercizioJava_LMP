@@ -8,5 +8,5 @@ Ogni qualvolta verranno svolti nuovi esercizi o si apporteranno modifiche, la re
 
 # Descrizione
 
-- Esercizio 01: primo esercizio Java, per informazioni leggere il relativo [README] (Esercizio-01\README.md)
-- Esercizio 02: secondo esercizio Java, per informazioni leggere il relativo [README] (Esercizio-02\README.md)
+- Esercizio 01: primo esercizio Java, per informazioni leggere il relativo [README] (https://github.com/ThomasMandija/EsercizioJava_LMP/blob/master/Esercizio-01/README.md)
+- Esercizio 02: secondo esercizio Java, per informazioni leggere il relativo [README] (https://github.com/ThomasMandija/EsercizioJava_LMP/blob/master/Esercizio-02/README.md)
