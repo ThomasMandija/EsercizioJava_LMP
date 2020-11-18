@@ -6,6 +6,20 @@ Questo è il primo esercizio creato in Java per il corso di LMP.
 # Changelog
 Il changelog verrà aggiornato ogni qualvolta ci saranno modifiche nella struttura del codice
 
+## Versione 0.3.0 - 18 Novembre 2020 (Marco Altomare)
+- Modifica progetto:
+    - Creazione file:
+        - `it.uniroma2.art.lmp.ex01.model.impl` -> `StudenteInformatica.java`
+        - `it.uniroma2.art.lmp.ex01.model.impl` -> `StudentePsicologia.java`
+    - Modifica file pre-esistenti:
+        - `StudenteImpl.java`: creazione campo `counter` ; 
+        modifica costruttore da `public` a `protected` ; 
+        modifica parametri da `matricola` a `prefisso` ; 
+        modifica istruzione da `this.matricola = matricola;` a `this.matricola = prefisso + counter; counter++;`
+- Descrizione file:
+    - `StudenteInformatica.java`: file class che aggiunge il relativo prefisso `INF` alla matricola
+    - `StudentePsicologia.java`: file class che aggiunge il relativo prefisso `PSI` alla matricola
+
 ## Versione 0.2.0 - 11 Novembre 2020 (Thomas Mandija)
 - Modifica progetto:
     - Creazione package:
@@ -26,7 +40,7 @@ Il changelog verrà aggiornato ogni qualvolta ci saranno modifiche nella struttu
 - Modifiche file pre-esistenti:
     - `Person.java` -> aggiunta stringa `package`
     - `Runner.java` -> aggiunta stringa `package`, aggiunte stringhe `import`, modifiche nel main
-    - PersonImpl.java -> aggiunta stringa `package`, aggiunta stringa `import`, modifica costruttore con ` this` 
+    - `PersonImpl.java` -> aggiunta stringa `package`, aggiunta stringa `import`, modifica costruttore con ` this` 
 
 ## Versione 0.1.0 - 28 Ottobre 2020 (Fabrizio Perna)
 - Creazione progetto
